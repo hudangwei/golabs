@@ -1,3 +1,3 @@
-# 示例代码
+# 绀轰緥浠ｇ爜
 
-* http-proxy http代理示例
+* http-proxy http浠ｇ悊绀轰緥
